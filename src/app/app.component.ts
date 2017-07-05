@@ -15,7 +15,7 @@ import { Component, ViewEncapsulation } from '@angular/core';
   <div class="w3-content" style="max-width: 2000px; margin-top:46px">
 	<div class="w3-container w3-content w3-center w3-padding-64">
 		<h2 class="w3-wide">TEAM ASSASSIN GAMING</h2>
-		<p class="w3-opacity"><i>Killers of the night</i></p>
+		<p class="w3-opacity"><i>Kill One Save Many</i></p>
 		<p class="w3-justify">Team Assassin Gaming is a group of gamers, friends, and comrades.  We play both competitive and casual games
 		together.</p>
 	</div>
